@@ -1,0 +1,508 @@
+{
+  "styles": [
+    {
+      "style_name": "ほっこり日常漫画風",
+      "core_concept": "Simple line art style focusing on warm everyday moments.",
+      "attributes": {
+        "medium": ["Pen", "Ink", "Simple Coloring"],
+        "visual_characteristics": {
+          "line_work": "Simple, clean line art with minimal details",
+          "perspective": "Flat, everyday scenes",
+          "coloring_style": "Minimal flat colors or monochrome"
+        },
+        "artistic_influence": ["4-koma Manga", "Daily Life Comics"],
+        "color_palette": {
+          "type": "Muted / Monochrome",
+          "contrast": "Low to Medium"
+        },
+        "overall_mood": "Warm, cozy, everyday life, heartwarming"
+      },
+      "subject_placeholder": "Simple line art style, clean minimal lines, warm everyday moments, flat perspective, minimal coloring, cozy atmosphere, heartwarming daily life scenes."
+    },
+    {
+      "style_name": "脱力系イラスト",
+      "core_concept": "Datsuryoku-kei (ennui/lazy) style with soft, drooping forms.",
+      "attributes": {
+        "medium": ["Digital Illustration", "Soft Vector"],
+        "visual_characteristics": {
+          "line_work": "Minimal outlines",
+          "perspective": "Flat, simplified rounded forms",
+          "coloring_style": "Desaturated pastel colors"
+        },
+        "artistic_influence": ["Weirdcore", "Cute"],
+        "color_palette": {
+          "type": "Pale / Desaturated",
+          "contrast": "Medium"
+        },
+        "overall_mood": "Cozy, lazy, relaxing, soft and floppy"
+      },
+      "subject_placeholder": "Datsuryoku-kei aesthetic, extremely soft and floppy shapes, desaturated pastel colors, minimal outlines, Weirdcore, cute, cozy and lazy atmosphere."
+    },
+    {
+      "style_name": "こども日記まんが風",
+      "core_concept": "Very simple manga style by children focusing on warmth and humor.",
+      "attributes": {
+        "medium": ["Hand-drawn Manga", "Pastel Colors"],
+        "visual_characteristics": {
+          "line_work": "Simple wobbly outlines",
+          "perspective": "Flat 2D, minimalist",
+          "coloring_style": "Flat pastel colors"
+        },
+        "artistic_influence": ["Daily Life Manga"],
+        "color_palette": {
+          "type": "Bright Pastel Colors",
+          "contrast": "Medium"
+        },
+        "overall_mood": "Humorous, weirdcore, warm, everyday life atmosphere."
+      },
+      "subject_placeholder": "Humorous manga style, simple wobbly outlines, flat pastel colors, minimalist facial features, everyday life atmosphere, humorous and warm hand-drawn aesthetic."
+    },
+    {
+      "style_name": "ゆるかわへたうま手描きスケッチ",
+      "core_concept": "Completely flat, simple, unpolished hand-drawn doodles that embrace imperfection to create a cute, relaxed, and humorous atmosphere.",
+      "attributes": {
+        "medium": [
+          "Felt-tip Pen / Marker on Paper",
+          "Ink Doodle",
+          "Quick Sketch"
+        ],
+        "visual_characteristics": {
+          "line_work": "Thick, wobbly, hand-drawn, organic monolines with uneven pressure; spontaneous and uncorrected strokes",
+          "perspective": "Completely flat, no background, floating subjects, Two-dimensional illustrations with no sense of depth",
+          "coloring_style": "Predominantly monochrome line art with very minimal, rough spot coloring (if any)"
+        },
+        "artistic_influence": [
+          "Heta-uma (Bad-Good) Art",
+          "Yuru-chara (Loose Characters)",
+          "Child-like Drawings",
+          "Daily Doodles"
+        ],
+        "color_palette": {
+          "type": "Monochrome / Minimalist",
+          "contrast": "High Pattern Contrast"
+        },
+        "overall_mood": "Relaxed, quirky, innocent, effortless, humorous, non-intimidating"
+      },
+      "subject_placeholder": "A simple black ink doodle of [subject], heta-uma style, wobbly thick lines, minimalist white background, cute and quirky expression, hand-drawn marker texture, loose and relaxed composition."
+    },
+    {
+      "style_name": "曲線的でポップなパステル・フラットイラスト",
+      "core_concept": "Soft, rounded character designs with clear, saturated pastel colors and a friendly, simplified organic look.",
+      "attributes": {
+        "medium": [
+          "Digital Vector Art (Round Brush)",
+          "Flat Design Illustration",
+          "Character Design"
+        ],
+        "visual_characteristics": {
+          "line_work": "Smooth, continuous curves with minimal corners; gentle, consistent line weight with a subtle hand-drawn feel",
+          "perspective": "Completely flat, zero depth, 2D composition",
+          "coloring_style": "Solid flat fill with vibrant, Subdued pastel tones (clear and distinct, not washed out), no texture or gradients",
+          "shapes": "Highly curvilinear, soft organic shapes with minimized sharp angles; ultra-simplified silhouettes"
+        },
+        "artistic_influence": [
+          "Kawaii Culture",
+          "Modern Pop Art",
+          "Vector Illustration"
+        ],
+        "color_palette": {
+          "type": "Subdued yet chic pastel",
+          "contrast": "Cheerful & Distinct (Clear separation between colors)"
+        },
+        "overall_mood": "Playful, soft, cheerful, energetic, friendly"
+      },
+      "subject_placeholder": "A minimal flat illustration of [subject], comprised of soft curvilinear shapes, Subdued pastel colors, ultra-simplified rounded character design, white background, cheerful and pop aesthetic."
+    },
+    {
+      "style_name": "アメリカ新聞コミック風",
+      "core_concept": "Minimalist newspaper comic strip style.",
+      "attributes": {
+        "medium": ["Ink", "Newsprint"],
+        "visual_characteristics": {
+          "line_work": "Minimalist wobbly ink lines",
+          "perspective": "Flat, simple character design",
+          "coloring_style": "Primary 256 color palette"
+        },
+        "artistic_influence": ["Classic American newspaper comic strip"],
+        "color_palette": {
+          "type": "Primary 256 colors",
+          "contrast": "Medium"
+        },
+        "overall_mood": "Clean, iconic, charming, nostalgic"
+      },
+      "subject_placeholder": "American comic strip style, round gothic font, minimalist wobbly ink lines, simple character design, hand-drawn look on newsprint, limited color palette, clean and iconic."
+    },
+    {
+      "style_name": "ガロ漫画風",
+      "core_concept": "Heta-uma (bad-good) weirdcore style, intentionally crude but expressive.",
+      "attributes": {
+        "medium": ["Ink pen", "Cheap paper"],
+        "visual_characteristics": {
+          "line_work": "Wobbly, amateurish ink lines",
+          "perspective": "Distorted, incorrect perspective",
+          "coloring_style": "Raw, unpolished"
+        },
+        "artistic_influence": ["Garo-style"],
+        "color_palette": {
+          "type": "Garish or Simple",
+          "contrast": "Medium"
+        },
+        "overall_mood": "Surreal, eccentric, weirdcore, raw, honest folk-art feel."
+      },
+      "subject_placeholder": "Heta-uma style, intentionally crude and amateurish drawing, wobbly ink lines, eccentric facial expressions, raw and honest folk-art feel, unpolished charm."
+    },
+    {
+      "style_name": "1960年代のフレンチイラスト風",
+      "core_concept": "1960s French Ligne claire (clear line) style with strong contours and flat colors.",
+      "attributes": {
+        "medium": ["Ink", "Watercolor/Gouache"],
+        "visual_characteristics": {
+          "line_work": "Uniform clean lines (Ligne claire)",
+          "perspective": "Clear, organized composition",
+          "coloring_style": "Flat colors without shading"
+        },
+        "artistic_influence": ["Franco-Belgian Comics"],
+        "color_palette": {
+          "type": "Flat / Vibrant",
+          "contrast": "Medium"
+        },
+        "overall_mood": "Crisp, classic, adventurous, European comic feel"
+      },
+      "subject_placeholder": "Ligne claire style, uniform clean lines, flat colors without shading, clear perspective, crisp and organized composition, classic European comic feel."
+    },
+    {
+      "style_name": "20世紀の西洋の絵本風",
+      "core_concept": "20th century western children's book illustration using vibrant watercolor and stamp techniques.",
+      "attributes": {
+        "medium": ["Rubber Stamp", "Vibrant watercolor", "Sponge"],
+        "visual_characteristics": {
+          "line_work": "No outlines, shapes defined by texture",
+          "perspective": "Flat, layered depth",
+          "coloring_style": "Translucent textures, overlapping colors"
+        },
+        "artistic_influence": ["20th century western culture - Poetic children's book illustration"],
+        "color_palette": {
+          "type": "Watery / Translucent",
+          "contrast": "Medium"
+        },
+        "overall_mood": "Cute, organic, soft, underwater atmosphere, artistic"
+      },
+      "subject_placeholder": "Vibrant rubber stamp print technique, translucent watercolor textures, overlapping sponge textures, organic shapes, underwater atmosphere with layered soft colors."
+    },
+    {
+      "style_name": "ビビッドな絵本イラスト風",
+      "core_concept": "picture book illustration style - bold, humorous, nonsensical with vibrant colors.",
+      "attributes": {
+        "medium": ["Watercolor", "Gouache"],
+        "visual_characteristics": {
+          "line_work": "Bold, handwritten lines with playful irregularity",
+          "perspective": "Dynamic, whimsical compositions with unexpected angles",
+          "coloring_style": "Vibrant, flat fill without much texture, expressive colors with bold color blocks"
+        },
+        "artistic_influence": ["Nonsense Picture Books", "Japanese Children's Book Art"],
+        "color_palette": {
+          "type": "Vibrant / Expressive",
+          "contrast": "Medium to High"
+        },
+        "overall_mood": "Humorous, nonsensical, playful, bold"
+      },
+      "subject_placeholder": "Picture book illustration style, bold and unique drawings, vibrant expressive colors, playful nonsensical humor, handwritten lines, dynamic whimsical compositions, childlike wonder and absurdity."
+    },
+    {
+      "style_name": "アメリカンイラスト風",
+      "core_concept": "1970s American painting style - bright California colors, swimming pools, intimate domestic scenes.",
+      "attributes": {
+        "medium": ["Acrylic Paint"],
+        "visual_characteristics": {
+          "line_work": "Clean, simplified outlines with flat color areas",
+          "perspective": "Intimate domestic scenes, interior spaces",
+          "coloring_style": "Bright California sunlight colors, flat acrylic-like areas, vibrant blues and greens"
+        },
+        "artistic_influence": ["Pop Art", "California Art"],
+        "color_palette": {
+          "type": "Bright / Vibrant (California Sunlight)",
+          "contrast": "High"
+        },
+        "overall_mood": "Bright, sunny, intimate, domestic, cheerful"
+      },
+      "subject_placeholder": "American painting style, bright California sunlight colors, flat acrylic-like color areas, clean simplified outlines, vibrant blues and greens, intimate personal scenes, cheerful sunny atmosphere."
+    },
+    {
+      "style_name": "1980年代の少年マンガ風",
+      "core_concept": "1980s shonen manga style.",
+      "attributes": {
+        "medium": ["1980s shonen manga style print"],
+        "visual_characteristics": {
+          "line_work": "Precise, detailed character lines",
+          "perspective": "Character-focused, vibrant expressions",
+          "coloring_style": "Vibrant cel shading, detailed highlights"
+        },
+        "artistic_influence": ["Shonen manga style"],
+        "color_palette": {
+          "type": "Vibrant / Saturated",
+          "contrast": "High"
+        },
+        "overall_mood": "Tactile, playful, handmade feel"
+      },
+      "subject_placeholder": "Shonen manga style, detailed character design, vibrant, expressive eyes with detailed highlights, detailed character expressions, high-quality manga style."
+    },
+    {
+      "style_name": "1990年代の日本アニメ風",
+      "core_concept": "1990s modern Japanese anime style with high production value.",
+      "attributes": {
+        "medium": ["Cel Animation"],
+        "visual_characteristics": {
+          "line_work": "Clean line art",
+          "perspective": "Cinematic lighting and composition",
+          "coloring_style": "High-quality cel shading, vibrant colors"
+        },
+        "artistic_influence": ["Japanese Anime", "Modern Animation"],
+        "color_palette": {
+          "type": "Vibrant",
+          "contrast": "High"
+        },
+        "overall_mood": "Expressive, cinematic, polished"
+      },
+      "subject_placeholder": "Modern Japanese anime style, high-quality cel shading, vibrant colors, clean digital line art, expressive eyes with detailed highlights, cinematic lighting, high production value."
+    },
+    {
+      "style_name": "ピクセルアート風",
+      "core_concept": "Pixel art style with retro game aesthetics and limited color palette.",
+      "attributes": {
+        "medium": ["Digital Pixel Art"],
+        "visual_characteristics": {
+          "line_work": "Pixelated, blocky edges",
+          "perspective": "Isometric or side-view, game-like",
+          "coloring_style": "Limited color palette, dithering patterns"
+        },
+        "artistic_influence": ["Retro Video Games", "8-bit / 16-bit Era"],
+        "color_palette": {
+          "type": "256 Limited Palette",
+          "contrast": "High"
+        },
+        "overall_mood": "Nostalgic, retro, game-like, pixelated"
+      },
+      "subject_placeholder": "Pixel art style, blocky pixelated edges, limited color palette, dithering patterns, retro game aesthetic, 8-bit or 16-bit video game style, nostalgic and game-like appearance."
+    },
+    {
+      "style_name": "3D CG アニメ映画風",
+      "core_concept": "3D computer graphics for vivid colors, pop art style anime movies.",
+      "attributes": {
+        "medium": ["3D Rendering", "CGI", "3D CG Rendering"],
+        "visual_characteristics": {
+          "line_work": "No lines, defined by light and shadow",
+          "perspective": "3D Camera with cinematic framing",
+          "coloring_style": "Vivid colors, pop art styles"
+        },
+        "artistic_influence": ["Pop art style 3D CG anime like Pixar movies"],
+        "color_palette": {
+          "type": "Vivid colors",
+          "contrast": "Medium to High"
+        },
+        "overall_mood": "3D computer graphics anime movies, professional lighting"
+      },
+      "subject_placeholder": "3D computer graphics for vivid colors, pop art style anime movies, 3D render style, PBR materials, global illumination."
+    },
+    {
+      "style_name": "クレイメーション風",
+      "core_concept": "Stop-motion animation using clay.",
+      "attributes": {
+        "medium": ["Claymation, Plasticine Clay", "Stop Motion"],
+        "visual_characteristics": {
+          "line_work": "Soft edges, physical volume",
+          "perspective": "Miniature set photography",
+          "coloring_style": "Solid clay colors"
+        },
+        "artistic_influence": ["Claymation style, stop-motion aesthetic"],
+        "attributes_details": ["Visible thumbprints", "Slightly bumpy surfaces", "Physical studio lighting"],
+        "color_palette": {
+          "type": "Vivid Clay Colors",
+          "contrast": "Physical Lighting"
+        },
+        "overall_mood": "Tactile, playful, handmade feel"
+      },
+      "subject_placeholder": "Claymation style, stop-motion aesthetic, visible thumbprints and clay texture, slightly bumpy weird handmade surfaces, physical studio lighting, tactile feel, playful 3D plasticine art."
+    },
+    {
+      "style_name": "ちぎり絵風",
+      "core_concept": "Japanese torn paper collage art.",
+      "attributes": {
+        "medium": ["Small torn pieces of Washi Paper", "Collage"],
+        "visual_characteristics": {
+          "line_work": "Fuzzy fiber edges (no sharp lines)",
+          "perspective": "Layered flat 2D",
+          "coloring_style": "Textured paper layers"
+        },
+        "artistic_influence": ["Chigiri-e", "Traditional Japanese Art", "Yamashita Kiyoshi"],
+        "color_palette": {
+          "type": "Vivid organic",
+          "contrast": "Low to Medium"
+        },
+        "overall_mood": "Soft, delicate, handcrafted, warm"
+      },
+      "subject_placeholder": "Japanese Chigiri-e style, small torn washi paper collage, fuzzy fiber edges, layered textured paper art, organic shapes, soft handcrafted feel, delicate traditional Japanese paper aesthetic."
+    },
+    {
+      "style_name": "パッチワークアート風",
+      "core_concept": "Patchwork textile art made from cut fabric scraps, collaged and stitched together.",
+      "attributes": {
+        "medium": ["Patchwork Fabric", "Textile", "Appliqué", "Quilt"],
+        "visual_characteristics": {
+          "line_work": "No drawn lines, only visible stitched seams around fabric pieces",
+          "perspective": "Flat 2D collage of overlapping fabric shapes",
+          "coloring_style": "Mixed patterned and solid fabric scraps, visible textile texture"
+        },
+        "artistic_influence": ["Patchwork Quilt", "Textile Collage Art"],
+        "color_palette": {
+          "type": "Mixed Fabric Vivid Colors / Patterns",
+          "contrast": "Medium to High"
+        },
+        "overall_mood": "Handcrafted, cozy, playful, folk-art, tactile"
+      },
+      "subject_placeholder": "Patchwork textile art made from cut fabric scraps of various colors, various patterns, irregular fabric pieces collaged and stitched together, visible stitched seams, mixed patterned and solid fabrics, flat 2D collage, cozy handcrafted quilt-like aesthetic, tactile textile texture."
+    },
+    {
+      "style_name": "アボリジナルアート風",
+      "core_concept": "Indigenous Australian dot or brush-tip painting art.",
+      "attributes": {
+        "medium": ["Acrylic on Canvas", "Vivid colors"],
+        "visual_characteristics": {
+          "line_work": "Intricate patterns of small dots, Brush-tip painting",
+          "perspective": "Top-down / Map-like",
+          "coloring_style": "Vivid colors"
+        },
+        "artistic_influence": ["Dreamtime Stories", "Indigenous Australian Art"],
+        "color_palette": {
+          "type": "Vivid colors",
+          "contrast": "High Pattern Contrast"
+        },
+        "overall_mood": "Rhythmic, tribal, intricate"
+      },
+      "subject_placeholder": "Indigenous Australian Aboriginal small dot or brush-tip painting, intricate dizzying patterns of very small dots, vivid colors, traditional symbols, top-down Dreamtime narrative, rhythmic tribal art."
+    },
+    {
+      "style_name": "素朴な色鉛筆画",
+      "core_concept": "Child's spontaneous doodle art",
+      "attributes": {
+        "medium": [
+          "Colored pencils",
+          "Soft-tip markers",
+          "Black ballpoint pen",
+          "White drawing paper texture"
+        ],
+        "visual_characteristics": {
+          "line_work": "Shaky, hand-drawn, unrefined, varying thickness",
+          "perspective": "Flat 2D, non-traditional proportions",
+          "coloring_style": "Crayon-like texture, overlapping strokes"
+        },
+        "shading_technique": "Visible hatching, uneven filling, white spots left uncolored",
+        "artistic_influence": [
+          "Primitive",
+          "Whimsical",
+          "Art Brut"
+        ],
+        "color_palette": {
+          "type": "Natural but vivid, vibrant",
+          "contrast": "Medium"
+        },
+        "overall_mood": "Minimalist, personified, naive. Primitive, whimsical, Art Brut.",
+        "background": "Off-white drawing paper"
+      },
+      "subject_placeholder": "A hand-drawn illustration on white drawing paper, child's scribble style, colored pencil texture with visible strokes, shaky outlines, whimsical personified object, naive art, flat 2D."
+    },
+    {
+      "style_name": "１才児のクレヨン落書き風",
+      "core_concept": "Toddler scribble style with intentionally crude, wobbly lines.",
+      "attributes": {
+        "medium": ["Crayon", "Marker", "Child's Drawing"],
+        "visual_characteristics": {
+          "line_work": "Extremely wobbly, uncontrolled lines",
+          "perspective": "No perspective, flat and crude",
+          "coloring_style": "Scribbled colors, outside the lines"
+        },
+        "artistic_influence": ["Children's Art", "Naive Art"],
+        "color_palette": {
+          "type": "Vivid / Bright / Random",
+          "contrast": "Variable"
+        },
+        "overall_mood": "Childlike, crude, innocent, intentionally imperfect"
+      },
+      "subject_placeholder": "Toddler scribble style, extremely wobbly uncontrolled lines, crude flat perspective, scribbled colors outside the lines, childlike innocent aesthetic, intentionally imperfect and naive drawing style."
+    },
+    {
+      "style_name": "4才の子供のアクリル画",
+      "core_concept": "Pure, chaotic scribble of a very young child.",
+      "attributes": {
+        "medium": ["Acrylic Paint"],
+        "visual_characteristics": {
+          "line_work": "Chaotic, energetic, messy lines",
+          "perspective": "None",
+          "coloring_style": "Coloring outside the lines, unblended"
+        },
+        "artistic_influence": ["Child Art", "Scribbling"],
+        "color_palette": {
+          "type": "Vivid CMYK colors, Bright / Clashing",
+          "contrast": "High"
+        },
+        "overall_mood": "Imaginative, crude, naive charm"
+      },
+      "subject_placeholder": "Pure 4-year-old child's scribble, messy acrylic paint on paper, chaotic energetic lines, imaginative crude figures, bright unblended colors, coloring outside the lines, naive charm."
+    },
+    {
+      "style_name": "モノクロマーカー落書き風",
+      "color": "白黒",
+      "core_concept": "Hand-drawn scribble illustration by a 6 year old child.",
+      "attributes": {
+        "medium": "Pencil",
+        "visual_characteristics": {
+          "line_work": "Raw, shaky, unrefined",
+          "perspective": "Flat 2D, simple bold silhouette",
+          "coloring_style": "Solid black, high contrast black fill"
+        },
+        "shading_technique": "Thick messy marker scribble shading",
+        "color_fill": "Solid black / High contrast black fill",
+        "line_quality": "Raw, shaky, unrefined",
+        "color_palette": {
+          "type": "白黒",
+          "contrast": "High contrast"
+        },
+        "overall_mood": "Rough childlike doodle style. Minimal detail. Simple bold silhouette. Naive and energetic folk art style.",
+        "background": "White background",
+        "output_spec": {
+          "background": "White background",
+          "usability": "Print-friendly",
+          "contrast": "High contrast"
+        }
+      },
+      "subject_placeholder": "A hand-drawn scribble illustration, thick messy marker scribble shading filled solid black, rough childlike doodle style, simple bold silhouette, minimal detail, high contrast black fill, print-friendly. Naive and energetic folk art style."
+    },
+    {
+      "style_name": "小学生の木版画",
+      "color": "白黒",
+      "core_concept": "Woodblock print made by a child. Traditional Japanese woodblock print (Hanga) in naive, energetic folk art style.",
+      "attributes": {
+        "medium": "Monochrome woodblock print (Hanga)",
+        "visual_characteristics": {
+          "line_work": "Straight, jagged, hand-carved edges, bold and thick lines",
+          "perspective": "Flat 2D, simplified forms with bold expressions",
+          "coloring_style": "Sumi ink black with uneven distribution"
+        },
+        "shading_technique": "Visible chisel marks, rough wood-carved textures",
+        "color_fill": "Sumi ink black with uneven distribution, white speckles showing wood grain",
+        "line_quality": "Jagged, hand-carved edges, bold and thick lines",
+        "color_palette": {
+          "type": "白黒",
+          "contrast": "Extremely high contrast (Black and White)"
+        },
+        "overall_mood": "Naive and energetic folk art style. Simplified forms with bold expressions. Stark contrast between carved and inked areas.",
+        "background": "Washi paper texture with subtle ink splatters",
+        "output_spec": {
+          "background": "Washi paper texture with subtle ink splatters",
+          "contrast": "Extremely high contrast (Black and White)",
+          "usability": "Artistic print style"
+        }
+      },
+      "subject_placeholder": "A monochrome woodblock print made by an elementary school child, bold black sumi ink on washi paper, visible chisel marks and rough carved edges, uneven ink texture with white speckles showing wood grain, simple energetic silhouette, naive art style, high contrast, rustic and handmade feel."
+    }
+  ]
+}

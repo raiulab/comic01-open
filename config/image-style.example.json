@@ -1,0 +1,37 @@
+{
+  "image_generation_prompt": {
+    "style_name": "Pure Naive Children's Scribble",
+    "core_concept": "Innocent, uninhibited, and endearingly distorted artwork created by a child.",
+    "attributes": {
+      "medium": [
+        "Wax crayons",
+        "Colored markers",
+        "Rough cardboard texture",
+        "Sketch paper background"
+      ],
+      "visual_characteristics": {
+        "line_work": "Deliberately shaky, unrefined, and wobbly lines",
+        "perspective": "Flat 2D look, distorted proportions, no realistic depth",
+        "coloring_style": "Coloring outside the lines, uneven pressure, raw strokes"
+      },
+      "artistic_influence": [
+        "Art Brut (Raw Art)",
+        "Naive Art",
+        "Spontaneous expressionism"
+      ],
+      "color_palette": {
+        "type": "Vibrant Primary Colors",
+        "colors": ["Bright Red", "Sky Blue", "Sun Yellow", "Grass Green"],
+        "contrast": "High"
+      },
+      "composition_elements": [
+        "Hand-drawn symbols (stars, hearts, smiling sun)",
+        "Stick figures",
+        "Significant negative space",
+        "Asymmetrical shapes"
+      ],
+      "overall_mood": "Cheerful, carefree, whimsical, and full of personality"
+    },
+    "subject_placeholder": "A quirky cat with wings and a smiling sun"
+  }
+}

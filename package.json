@@ -1,0 +1,21 @@
+{
+  "name": "comic01-open",
+  "version": "1.0.0",
+  "description": "Local-first four-panel comic generation and editing workflow",
+  "engines": {
+    "node": ">=22"
+  },
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace client",
+    "dev:server": "npm run dev --workspace server",
+    "build": "npm run build --workspace client",
+    "test": "node --test client/src/utils/serifOverlay.test.js server/services/*.test.js",
+    "start": "npm run start --workspace server"
+  },
+  "license": "MIT"
+}

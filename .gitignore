@@ -1,0 +1,19 @@
+node_modules/
+db/
+uploads/
+generated/
+output/
+client/dist/
+npm-debug.log*
+.env
+.DS_Store
+*.DS_Store
+
+# セリフ用フォント（Google Fonts から手動で取得）
+font/NotoSansJP-Regular.ttf
+font/NotoSansJP-SemiBold.ttf
+
+# Local editor and operating-system files
+.idea/
+.vscode/
+.claude/
